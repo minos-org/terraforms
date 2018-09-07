@@ -1,0 +1,9 @@
+packer_cache/
+vbox_cache
+Vagrantfile
+*.box
+
+.terraform
+*.tfstate*
+*.retry
+.vault_pass.txt
